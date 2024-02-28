@@ -5,7 +5,7 @@ from .forms import CSVImportForm
 from .models import Book
 import csv
 from django.core.management import call_command
-
+from django.views.generic import ListView
 
 def home(request):
     return render(request, 'home.html')
@@ -90,3 +90,9 @@ def import_csv(request):
         form = CSVImportForm()
     
     return render(request, 'import.html', {'form': form})
+
+
+
+class menue(ListView):
+    model = Book
+    template_name = "index.html"
