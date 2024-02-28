@@ -1,19 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Menü</title>
-</head>
-<body>
-<h1>Menü:</h1>
-<table>
-    {% for item in object_list %}
-    <tr>
-        <td>{{ Name.text }}</td>
-        <td>{{ item.Kategorie }}</td>
-        <td>{{ item.Verkaufspreis }}</td>
-    </tr>
-    {% endfor %}
-</table>
-</body>
-</html>
+{% extends "base.html" %}
+{% block content %}
+    <h1>Menü:</h1>
+    <table>
+        {% for item in object_list %}
+        <tr>
+            <td>{{ item.Kategorie }}</td>
+            <td>{{ item.Name }}</td>
+            <td>{{ item.Verkaufspreis }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

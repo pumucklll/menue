@@ -96,3 +96,11 @@ def import_csv(request):
 class menue(ListView):
     model = Book
     template_name = "index.html"
+
+class menue_filter(ListView):
+    model = Book
+    template_name = "bier.html"
+
+    def get_queryset(self):
+        bier = Book.objects.filter(Kategorie="Bier")
+        return bier

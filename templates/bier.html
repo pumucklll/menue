@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+    <h1>Bier:</h1>
+        <table>
+            
+            {% for item in object_list %}
+            <tr>
+                <td>{{ item.Name }} </td>
+                <td>{{ item.Verkaufspreis | cut:'0' }} Euro</td>
+            </tr>
+            {% endfor %}
+            
+        </table>
+
