@@ -10,8 +10,13 @@
     </head>
     <body>
         <div>
-            <a class="button" href='{% url "index" %}'>All tasks</a>
-            <a class="button" href='{% url "bier" %}'>Today</a>
+            <a class="button" href='{% url "alkoholfrei" %}'>Alkoholfrei</a>
+            <a class="button" href='{% url "kaffee" %}'>Kaffe und Tee</a>
+            <a class="button" href='{% url "bier" %}'>Bier</a>
+            <a class="button" href='{% url "wein" %}'>Wein</a>
+            <a class="button" href='{% url "speisen" %}'>Speisen</a>
+            {# <a class="button" href='{% url "admin:index" %}'>Admin</a> #}
+            
         </div>
         {% block content %}{% endblock %}
     </body>

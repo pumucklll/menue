@@ -1,3 +1,4 @@
+from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
 from bs4 import BeautifulSoup
 from django.shortcuts import render, redirect
@@ -7,10 +8,12 @@ import csv
 from django.core.management import call_command
 from django.views.generic import ListView
 
+
+@login_required
 def home(request):
     return render(request, 'home.html')
 
-
+@login_required
 def export_csv(request):
     # Your data retrieval logic goes here
     data = [
@@ -29,7 +32,7 @@ def export_csv(request):
 
     return response
 
-
+@login_required
 def export_query_to_csv(request):
     data = Book.objects.all()
 
@@ -44,7 +47,7 @@ def export_query_to_csv(request):
 
     return response
 
-
+@login_required
 def export_html_to_csv(request):
     html = """
     <!-- Your HTML table content here -->
@@ -68,13 +71,13 @@ def export_html_to_csv(request):
 
 # views.py
 
-
+@login_required
 def import_csv(request):
     if request.method == 'POST':
         form = CSVImportForm(request.POST, request.FILES, )
         if form.is_valid():
             call_command('flush', interactive=False)
-            #Book.objects.all().delete()
+            # Book.objects.all().delete()
             csv_file = request.FILES['csv_file'].read().decode('utf-8').splitlines()
             csv_reader = csv.DictReader(csv_file, delimiter=";")
 
@@ -88,19 +91,50 @@ def import_csv(request):
             return redirect('home')  # Redirect to a success page
     else:
         form = CSVImportForm()
-    
-    return render(request, 'import.html', {'form': form})
 
+    return render(request, 'import.html', {'form': form})
 
 
 class menue(ListView):
     model = Book
     template_name = "index.html"
 
-class menue_filter(ListView):
+
+class menue_bier(ListView):
     model = Book
     template_name = "bier.html"
 
     def get_queryset(self):
-        bier = Book.objects.filter(Kategorie="Bier")
-        return bier
+        return Book.objects.filter(Kategorie="Bier")
+
+
+class menue_wein(ListView):
+    model = Book
+    template_name = "wein.html"
+
+    def get_queryset(self):
+        return Book.objects.filter(Kategorie="Wein")
+
+
+class menue_speisen(ListView):
+    model = Book
+    template_name = "speisen.html"
+
+    def get_queryset(self):
+        return Book.objects.filter(Kategorie="Speisen")
+
+
+class menue_kaffee(ListView):
+    model = Book
+    template_name = "kaffee.html"
+
+    def get_queryset(self):
+        return Book.objects.filter(Kategorie="Kaffee und Tee")
+
+
+class menue_alkoholfrei(ListView):
+    model = Book
+    template_name = "alkoholfrei.html"
+
+    def get_queryset(self):
+        return Book.objects.filter(Kategorie="Alkoholfrei")
