@@ -76,8 +76,7 @@ def import_csv(request):
     if request.method == 'POST':
         form = CSVImportForm(request.POST, request.FILES, )
         if form.is_valid():
-            call_command('flush', interactive=False)
-            # Book.objects.all().delete()
+            Book.objects.all().delete()
             csv_file = request.FILES['csv_file'].read().decode('utf-8').splitlines()
             csv_reader = csv.DictReader(csv_file, delimiter=";")
 
