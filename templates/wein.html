@@ -1,8 +1,7 @@
-bier.html{% extends "base.html" %}
+{% extends "base.html" %}
 {% block content %}
     <h1>Wein</h1>
         <table>
-            
             {% for item in object_list %}
             <tr>
                 <td>{{ item.Name }} </td>
