@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="8 settings">
-      <change beforePath="$PROJECT_DIR$/.idea/djangoPmenue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoPmenue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/alkoholfrei.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/alkoholfrei.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bier.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kaffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/kaffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/speisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/speisen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/wein.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/wein.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +116,7 @@
       <updated>1709061382681</updated>
       <workItem from="1709061395245" duration="36000" />
       <workItem from="1709153310877" duration="5073000" />
-      <workItem from="1709182597628" duration="20006000" />
+      <workItem from="1709182597628" duration="24353000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -198,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709236461708</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="9">
+      <option name="closed" value="true" />
+      <created>1709459213583</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709459213583</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +233,7 @@
     <MESSAGE value="6 flush db" />
     <MESSAGE value="7  Book.objects.all().delete() not flush" />
     <MESSAGE value="8 settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 settings" />
+    <MESSAGE value="9" />
+    <option name="LAST_COMMIT_MESSAGE" value="9" />
   </component>
 </project>
