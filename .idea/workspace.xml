@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="11 Version 1.0">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="12 subtitle auskommentiert">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +113,7 @@
       <workItem from="1709061395245" duration="36000" />
       <workItem from="1709153310877" duration="5073000" />
       <workItem from="1709182597628" duration="24754000" />
-      <workItem from="1710311090166" duration="6812000" />
+      <workItem from="1710311090166" duration="8400000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -226,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710350939479</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="12 subtitle auskommentiert">
+      <option name="closed" value="true" />
+      <created>1710353261915</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710353261915</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +265,7 @@
     <MESSAGE value="9" />
     <MESSAGE value="10 Tabellen Format" />
     <MESSAGE value="11 Version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 Version 1.0" />
+    <MESSAGE value="12 subtitle auskommentiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="12 subtitle auskommentiert" />
   </component>
 </project>
