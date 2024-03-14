@@ -4,6 +4,9 @@
     <p class="subtitle is-5">
        unsere Speisen
     </p>-->
+
+
+
         <table class="table is-bordered is-striped ">
             
             {% for item in object_list %}
@@ -11,7 +14,13 @@
                 <td>{{ item.Name }} </td>
                 <td>{{ item.Verkaufspreis |slice:"-1" }} Euro</td>
             </tr>
+            
             {% endfor %}
+                {% load static %}
+                     <figure class="image is=96x96 is-align-content-baseline">
+                         <img src="{% static 'MICI-980x551.jpg' %}" alt="My image">
+                     </figure>
+
             
         </table>
 {% endblock %}
