@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ljx&_1$7w_e77m7fn-wor48d8fc&1k)))0@(4nbq6@lhqj%+*c
 DEBUG = True
 
 #ALLOWED_HOSTS = ['127.0.0.1', 'localhost', "10.10.10.7", ".cafe-dorner.at", "*cafe-dorner.at", "menue.cafe-dorner.at", "*"]
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*", "0.0.0.0",]
 
 # Application definition
 
