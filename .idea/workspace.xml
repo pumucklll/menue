@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="19 allowed hosts" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +130,7 @@
       <workItem from="1709153310877" duration="5073000" />
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
-      <workItem from="1710594802643" duration="11417000" />
+      <workItem from="1710594802643" duration="11776000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -388,7 +388,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710607287251</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="19 allowed hosts">
+      <option name="closed" value="true" />
+      <created>1710607370054</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1710607370054</updated>
+    </task>
+    <task id="LOCAL-00034" summary="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False">
+      <option name="closed" value="true" />
+      <created>1710607450523</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710607450523</updated>
+    </task>
+    <task id="LOCAL-00035" summary="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False">
+      <option name="closed" value="true" />
+      <created>1710607576967</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710607576967</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +450,7 @@
     <MESSAGE value="18 allergene" />
     <MESSAGE value="19 allowed hostes" />
     <MESSAGE value="19 allowed hosts" />
-    <option name="LAST_COMMIT_MESSAGE" value="19 allowed hosts" />
+    <MESSAGE value="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False" />
   </component>
 </project>
