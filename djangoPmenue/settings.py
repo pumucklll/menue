@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ljx&_1$7w_e77m7fn-wor48d8fc&1k)))0@(4nbq6@lhqj%+*c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', "10.10.10.7", "menue.cafe-dorner.at]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', "10.10.10.7", "menue.cafe-dorner.at"]
 
 
 # Application definition
