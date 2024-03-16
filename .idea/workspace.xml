@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="23 whitenoise">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="24">
+      <change afterPath="$PROJECT_DIR$/menue/static/A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/L.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/N.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/O.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/P.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/R.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/alkoholfrei.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/alkoholfrei.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoPmenue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/allergene.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/allergene.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bier.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/kaffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/kaffee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/speisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/speisen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/wein.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/wein.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +150,7 @@
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
       <workItem from="1710594802643" duration="11776000" />
+      <workItem from="1710621241476" duration="1098000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -436,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710618467084</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="24">
+      <option name="closed" value="true" />
+      <created>1710619439240</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1710619439240</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,6 +496,7 @@
     <MESSAGE value="19 allowed hosts" />
     <MESSAGE value="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False" />
     <MESSAGE value="23 whitenoise" />
-    <option name="LAST_COMMIT_MESSAGE" value="23 whitenoise" />
+    <MESSAGE value="24" />
+    <option name="LAST_COMMIT_MESSAGE" value="24" />
   </component>
 </project>
