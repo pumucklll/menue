@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="20 # SECURITY WARNING: don't run with debug turned on in production!&#10;DEBUG = False">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoPmenue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoPmenue/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/wsgi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
