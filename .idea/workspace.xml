@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="19 allowed hosts">
-      <change beforePath="$PROJECT_DIR$/djangoPmenue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="19 allowed hosts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +130,7 @@
       <workItem from="1709153310877" duration="5073000" />
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
-      <workItem from="1710594802643" duration="11111000" />
+      <workItem from="1710594802643" duration="11417000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -374,7 +372,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710606992212</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="19 allowed hosts">
+      <option name="closed" value="true" />
+      <created>1710607110826</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1710607110826</updated>
+    </task>
+    <task id="LOCAL-00032" summary="19 allowed hosts">
+      <option name="closed" value="true" />
+      <created>1710607287251</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1710607287251</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
