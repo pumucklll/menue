@@ -4,15 +4,29 @@
     <p class="subtitle is-5">
         Alkoholfreies
     </p>-->
-        <table class="table is-bordered is-striped">
-            
-            {% for item in object_list %}
-            <tr>
-                <td>{{ item.Name }} </td>
-                <td>{{ item.Verkaufspreis |slice:"-1"}} Euro</td>
-            </tr>
-            {% endfor %}
-            
-        </table>
+    {% load static %}
+    <div class="row">
+      <div class="column is-bordered is-striped" >
+          <table class="table is-bordered is-striped ">
+                {% for item in object_list %}
+                <tr>
+                    <td>{{ item.Name }} </td>
+                    <td>{{ item.Verkaufspreis |slice:"-1" }} Euro</td>
+                </tr>
+                {% endfor %}
+           </table>
+      </div>
+      <div class="column">
+
+          <figure class="image" >
+              <img src="{% static 'whogo.png' %}" alt="My image" style="width:35%">
+              <figcaption>Whogo  </figcaption>
+              <img src="{% static 'Whogo rosé.png' %}" alt="My image" style="width:35%">
+              <figcaption>Whogo rosé </figcaption>
+              <img src="{% static 'Gin Fizz.png' %}" alt="My image" style="width:35%">
+              <figcaption>Schmutti´s Gin Fizz</figcaption>
+        </figure>
+      </div>
+    </div>
 {% endblock %}
 
