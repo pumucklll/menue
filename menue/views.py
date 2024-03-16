@@ -85,6 +85,7 @@ def import_csv(request):
                     Name=row['\ufeffName*'],
                     Kategorie=row['Kategorie'],
                     Verkaufspreis=row['Verkaufspreis Brutto*'],
+                    Allergene=row['Beschreibung'],
                 )
 
             return redirect('home')  # Redirect to a success page

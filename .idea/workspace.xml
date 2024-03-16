@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="18 Bilder in jeder Rubrik">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="17 Bilder in jeder Rubrik">
+      <change afterPath="$PROJECT_DIR$/menue/migrations/0006_book_allergene.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/alkoholfrei.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/alkoholfrei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/allergene.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/allergene.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/bier.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bier.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/kaffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/kaffee.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/speisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/speisen.html" afterDir="false" />
@@ -139,7 +141,7 @@
       <workItem from="1709153310877" duration="5073000" />
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
-      <workItem from="1710594802643" duration="7452000" />
+      <workItem from="1710594802643" duration="8376000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -293,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710600995003</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="17 Bilder in jeder Rubrik">
+      <option name="closed" value="true" />
+      <created>1710602755297</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1710602755297</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +337,7 @@
     <MESSAGE value="17 Bilder und Allergene" />
     <MESSAGE value="17 urlpatterns += staticfiles_urlpatterns()" />
     <MESSAGE value="18 Bilder in jeder Rubrik" />
-    <option name="LAST_COMMIT_MESSAGE" value="18 Bilder in jeder Rubrik" />
+    <MESSAGE value="17 Bilder in jeder Rubrik" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 Bilder in jeder Rubrik" />
   </component>
 </project>
