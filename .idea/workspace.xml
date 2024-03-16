@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="19 allowed hostes" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="19 allowed hosts">
+      <change beforePath="$PROJECT_DIR$/djangoPmenue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +132,7 @@
       <workItem from="1709153310877" duration="5073000" />
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
-      <workItem from="1710594802643" duration="10445000" />
+      <workItem from="1710594802643" duration="10759000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -316,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710606321022</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="19 allowed hosts">
+      <option name="closed" value="true" />
+      <created>1710606416728</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710606416728</updated>
+    </task>
+    <task id="LOCAL-00025" summary="19 allowed hosts">
+      <option name="closed" value="true" />
+      <created>1710606544785</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710606544785</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,6 +371,7 @@
     <MESSAGE value="17 Bilder in jeder Rubrik" />
     <MESSAGE value="18 allergene" />
     <MESSAGE value="19 allowed hostes" />
-    <option name="LAST_COMMIT_MESSAGE" value="19 allowed hostes" />
+    <MESSAGE value="19 allowed hosts" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 allowed hosts" />
   </component>
 </project>
