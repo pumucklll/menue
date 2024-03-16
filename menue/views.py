@@ -137,3 +137,10 @@ class menue_alkoholfrei(ListView):
 
     def get_queryset(self):
         return Book.objects.filter(Kategorie="Alkoholfrei")
+
+class menue_allergene(ListView):
+    model = Book
+    template_name = "allergene.html"
+
+    def get_queryset(self):
+        return Book.objects.filter(Kategorie="allergene")

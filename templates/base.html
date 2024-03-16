@@ -7,6 +7,22 @@
               content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Document</title>
+        <style>
+                * {
+                  box-sizing: border-box;
+                }
+                /* Create two equal columns that floats next to each other */
+                .column {
+                  float: left;
+                  padding: 5px;
+                }
+                /* Clear floats after the columns */
+                .row:after {
+                  content: "";
+                  display: table;
+                  clear: both;
+                }
+</style>
     </head>
     <body>
         <section class="hero is-small is-danger mb-4">
@@ -23,10 +39,13 @@
             <a class="button" href='{% url "bier" %}'>Bier</a>
             <a class="button" href='{% url "wein" %}'>Wein</a>
             <a class="button" href='{% url "speisen" %}'>Speisen</a>
+            <a class="button" href='{% url "allergene" %}'>Allergene</a>
+            
         </div>
         </section>
-             <div class="column is-right">
-                    {% block content %}{% endblock %}   
+             <div class="column" >
+                    {% block content %}{% endblock %}
              </div>
+
     </body>
 </html>

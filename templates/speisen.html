@@ -4,23 +4,28 @@
     <p class="subtitle is-5">
        unsere Speisen
     </p>-->
-
-
-
-        <table class="table is-bordered is-striped ">
-            
-            {% for item in object_list %}
-            <tr>
-                <td>{{ item.Name }} </td>
-                <td>{{ item.Verkaufspreis |slice:"-1" }} Euro</td>
-            </tr>
-            
-            {% endfor %}
- 
-        </table>
     {% load static %}
-    <figure class="image is=96x96 is-align-content-baseline">
-                         <img src="{% static 'MICI-980x551.jpg' %}" alt="My image">
-                     </figure>
+    <div class="row">
+      <div class="column is-bordered is-striped" >
+          <table class="table is-bordered is-striped ">
+                {% for item in object_list %}
+                <tr>
+                    <td>{{ item.Name }} </td>
+                    <td>{{ item.Verkaufspreis |slice:"-1" }} Euro</td>
+                </tr>
+                {% endfor %}
+           </table>
+      </div>
+      <div class="column">
+
+          <figure class="image" >
+              <img src="{% static 'MICI.jpg' %}" alt="My image" style="width:35%">
+              <figcaption>Mici 5stk m Brot</figcaption>
+              <img src="{% static 'MICI.jpg' %}" alt="My image" style="width:35%">
+              <figcaption>Mici 1stk m Brot</figcaption>
+        </figure>
+      </div>
+    </div>
+    
 {% endblock %}
 

@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="12 subtitle auskommentiert">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="16">
+      <change afterPath="$PROJECT_DIR$/menue/static/MICI-980x551.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/MICI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/allergene1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/allergene2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menue/static/allergene3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/allergene.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/allergenehtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/speisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/speisen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +34,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pumucklll&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1ae99777-1874-4abb-9264-5caa6b1aae81" />
+        <option name="url" value="https://github.com/pumucklll/menue.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -114,6 +143,7 @@
       <workItem from="1709153310877" duration="5073000" />
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
+      <workItem from="1710594802643" duration="4147000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -235,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710353261915</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="16">
+      <option name="closed" value="true" />
+      <created>1710594236006</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710594236006</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

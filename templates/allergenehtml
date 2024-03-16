@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+    <!-- comment
+    <p class="subtitle is-5">
+        Wein
+    </p>-->
+    <table class="table is-bordered is-striped is-centered">
+    {% for item in object_list %}
+        <tr>
+            <td>{{ item.Name }} </td>
+            <td>{{ item.Verkaufspreis |slice:"-1" }} Euro</td>
+        </tr>
+    {% endfor %}
+{% endblock %}
+
