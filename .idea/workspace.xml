@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="27  ignore !/db.sqlite3">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="25 Allergene Neu">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoPmenue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/allergene.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/allergene.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,8 +136,7 @@
       <workItem from="1709182597628" duration="24754000" />
       <workItem from="1710311090166" duration="8400000" />
       <workItem from="1710594802643" duration="11776000" />
-      <workItem from="1710621241476" duration="8281000" />
-      <workItem from="1710664535715" duration="1338000" />
+      <workItem from="1710621241476" duration="7443000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -457,63 +458,7 @@
       <option name="project" value="LOCAL" />
       <updated>1710622614837</updated>
     </task>
-    <task id="LOCAL-00041" summary="25 Allergene Neu">
-      <option name="closed" value="true" />
-      <created>1710628737154</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1710628737154</updated>
-    </task>
-    <task id="LOCAL-00042" summary="25 Allergene Neu">
-      <option name="closed" value="true" />
-      <created>1710629062882</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1710629062882</updated>
-    </task>
-    <task id="LOCAL-00043" summary="26 db flush">
-      <option name="closed" value="true" />
-      <created>1710664651214</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1710664651214</updated>
-    </task>
-    <task id="LOCAL-00044" summary="26 db flush">
-      <option name="closed" value="true" />
-      <created>1710664952384</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1710664952384</updated>
-    </task>
-    <task id="LOCAL-00045" summary="26 db flush">
-      <option name="closed" value="true" />
-      <created>1710665197683</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1710665197683</updated>
-    </task>
-    <task id="LOCAL-00046" summary="26 db flush">
-      <option name="closed" value="true" />
-      <created>1710665364261</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1710665364261</updated>
-    </task>
-    <task id="LOCAL-00047" summary="27  ignore !/db.sqlite3">
-      <option name="closed" value="true" />
-      <created>1710665459921</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1710665459921</updated>
-    </task>
-    <option name="localTasksCounter" value="48" />
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,8 +500,6 @@
     <MESSAGE value="23 whitenoise" />
     <MESSAGE value="24" />
     <MESSAGE value="25 Allergene Neu" />
-    <MESSAGE value="26 db flush" />
-    <MESSAGE value="27  ignore !/db.sqlite3" />
-    <option name="LAST_COMMIT_MESSAGE" value="27  ignore !/db.sqlite3" />
+    <option name="LAST_COMMIT_MESSAGE" value="25 Allergene Neu" />
   </component>
 </project>
