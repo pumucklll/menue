@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="25 Allergene Neu">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="25 500 eror fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menue/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/allergene.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/allergene.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -458,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710622614837</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="25 500 eror fix">
+      <option name="closed" value="true" />
+      <created>1710666997397</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710666997397</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,6 +505,7 @@
     <MESSAGE value="23 whitenoise" />
     <MESSAGE value="24" />
     <MESSAGE value="25 Allergene Neu" />
-    <option name="LAST_COMMIT_MESSAGE" value="25 Allergene Neu" />
+    <MESSAGE value="25 500 eror fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="25 500 eror fix" />
   </component>
 </project>
