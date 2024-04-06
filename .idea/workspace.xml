@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="26 V1.1">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="28 Timer 2 ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/event.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -504,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710670033232</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="28 Timer 2 ok">
+      <option name="closed" value="true" />
+      <created>1712400767742</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1712400767742</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,7 +530,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="3 Menü angezeigt" />
     <MESSAGE value="4 ccs" />
     <MESSAGE value="4.1 ccs" />
     <MESSAGE value="5 admin" />
@@ -548,6 +554,7 @@
     <MESSAGE value="25 Allergene Neu" />
     <MESSAGE value="25 500 eror fix" />
     <MESSAGE value="26 V1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="26 V1.1" />
+    <MESSAGE value="28 Timer 2 ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 Timer 2 ok" />
   </component>
 </project>
