@@ -146,3 +146,6 @@ def menue_hausordnung(request):
 
 def menue_allergene(request):
     return render(request, 'allergene.html')
+
+def menue_event(request):
+    return render(request, 'event.html')

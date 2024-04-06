@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="25 500 eror fix">
-      <change afterPath="$PROJECT_DIR$/templates/registration/base_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/logged_out.html" afterDir="false" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="26 V1.1">
+      <change afterPath="$PROJECT_DIR$/templates/event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoPmenue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoPmenue/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menue/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/menue/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -137,6 +138,14 @@
       <workItem from="1710311090166" duration="8400000" />
       <workItem from="1710594802643" duration="11776000" />
       <workItem from="1710621241476" duration="7443000" />
+      <workItem from="1710683870219" duration="16000" />
+      <workItem from="1710684801428" duration="2004000" />
+      <workItem from="1710687996600" duration="3072000" />
+      <workItem from="1710697138645" duration="1767000" />
+      <workItem from="1710737363994" duration="3466000" />
+      <workItem from="1712205547821" duration="91000" />
+      <workItem from="1712205708174" duration="1195000" />
+      <workItem from="1712384241852" duration="1055000" />
     </task>
     <task id="LOCAL-00001" summary="3 Menü angezeigt">
       <option name="closed" value="true" />
@@ -490,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710667689595</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="26 V1.1">
+      <option name="closed" value="true" />
+      <created>1710670033232</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1710670033232</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,6 +550,7 @@
     <MESSAGE value="24" />
     <MESSAGE value="25 Allergene Neu" />
     <MESSAGE value="25 500 eror fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="25 500 eror fix" />
+    <MESSAGE value="26 V1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 V1.1" />
   </component>
 </project>
