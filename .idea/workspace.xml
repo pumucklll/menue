@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="31 Coutdown bis zur Eröffnung">
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/event.html" afterDir="false" />
-    </list>
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="32 Google tag 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,23 +143,7 @@
       <workItem from="1712473336933" duration="240000" />
       <workItem from="1712473678358" duration="1061000" />
       <workItem from="1712480090119" duration="763000" />
-      <workItem from="1713805557710" duration="1178000" />
-    </task>
-    <task id="LOCAL-00002" summary="4 ccs">
-      <option name="closed" value="true" />
-      <created>1709145422859</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709145422859</updated>
-    </task>
-    <task id="LOCAL-00003" summary="4.1 ccs">
-      <option name="closed" value="true" />
-      <created>1709145450712</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1709145450712</updated>
+      <workItem from="1713805557710" duration="1543000" />
     </task>
     <task id="LOCAL-00004" summary="5 admin">
       <option name="closed" value="true" />
@@ -540,7 +521,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713807735796</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="32 Google tag">
+      <option name="closed" value="true" />
+      <created>1713808217660</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1713808217660</updated>
+    </task>
+    <task id="LOCAL-00052" summary="32 Google tag 2">
+      <option name="closed" value="true" />
+      <created>1713808368268</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1713808368268</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,8 +556,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="6 github" />
-    <MESSAGE value="6 flush db" />
     <MESSAGE value="7  Book.objects.all().delete() not flush" />
     <MESSAGE value="8 settings" />
     <MESSAGE value="9" />
@@ -584,6 +579,8 @@
     <MESSAGE value="29 Timer 3 ok" />
     <MESSAGE value="30 Timer 4 ok" />
     <MESSAGE value="31 Coutdown bis zur Eröffnung" />
-    <option name="LAST_COMMIT_MESSAGE" value="31 Coutdown bis zur Eröffnung" />
+    <MESSAGE value="32 Google tag" />
+    <MESSAGE value="32 Google tag 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="32 Google tag 2" />
   </component>
 </project>
