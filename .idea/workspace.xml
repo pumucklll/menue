@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="32 Google tag 2" />
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="32 Google tag 2">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3787867f-fced-46b9-b64b-01c551b12734.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3787867f-fced-46b9-b64b-01c551b12734.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bier.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hausordnung.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hausordnung.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,8 +119,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -144,6 +150,8 @@
       <workItem from="1712473678358" duration="1061000" />
       <workItem from="1712480090119" duration="763000" />
       <workItem from="1713805557710" duration="1543000" />
+      <workItem from="1715026860284" duration="391000" />
+      <workItem from="1715056064132" duration="2085000" />
     </task>
     <task id="LOCAL-00004" summary="5 admin">
       <option name="closed" value="true" />
