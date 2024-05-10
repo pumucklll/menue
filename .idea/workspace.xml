@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="33 AGB">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="34 superuser create">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hausordnung.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hausordnung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/speisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/speisen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,23 +151,9 @@
       <workItem from="1713805557710" duration="1543000" />
       <workItem from="1715026860284" duration="391000" />
       <workItem from="1715056064132" duration="3301000" />
-      <workItem from="1715141931241" duration="814000" />
-    </task>
-    <task id="LOCAL-00005" summary="6 github">
-      <option name="closed" value="true" />
-      <created>1709184946753</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1709184946753</updated>
-    </task>
-    <task id="LOCAL-00006" summary="6 github">
-      <option name="closed" value="true" />
-      <created>1709187911723</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1709187911723</updated>
+      <workItem from="1715141931241" duration="2022000" />
+      <workItem from="1715237105356" duration="895000" />
+      <workItem from="1715369220091" duration="487000" />
     </task>
     <task id="LOCAL-00007" summary="6 flush db">
       <option name="closed" value="true" />
@@ -542,7 +531,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715058972328</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="33 flush dB">
+      <option name="closed" value="true" />
+      <created>1715144408367</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144408367</updated>
+    </task>
+    <task id="LOCAL-00055" summary="34 superuser create">
+      <option name="closed" value="true" />
+      <created>1715144500832</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1715144500832</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,8 +566,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="8 settings" />
-    <MESSAGE value="9" />
     <MESSAGE value="10 Tabellen Format" />
     <MESSAGE value="11 Version 1.0" />
     <MESSAGE value="12 subtitle auskommentiert" />
@@ -586,6 +589,8 @@
     <MESSAGE value="32 Google tag" />
     <MESSAGE value="32 Google tag 2" />
     <MESSAGE value="33 AGB" />
-    <option name="LAST_COMMIT_MESSAGE" value="33 AGB" />
+    <MESSAGE value="33 flush dB" />
+    <MESSAGE value="34 superuser create" />
+    <option name="LAST_COMMIT_MESSAGE" value="34 superuser create" />
   </component>
 </project>
