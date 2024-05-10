@@ -1,6 +1,6 @@
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 from django.shortcuts import render, redirect
 from .forms import CSVImportForm
 from .models import Book
@@ -52,7 +52,7 @@ def export_html_to_csv(request):
     html = """
     <!-- Your HTML table content here -->
     """
-    soup = BeautifulSoup(html, 'html.parser')
+    #soup = BeautifulSoup(html, 'html.parser')
     data = []
 
     for row in soup.find_all('tr'):
