@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="34 superuser create">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="35 views .py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hausordnung.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hausordnung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/speisen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/speisen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/event.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,23 +152,7 @@
       <workItem from="1715056064132" duration="3301000" />
       <workItem from="1715141931241" duration="2022000" />
       <workItem from="1715237105356" duration="895000" />
-      <workItem from="1715369220091" duration="487000" />
-    </task>
-    <task id="LOCAL-00007" summary="6 flush db">
-      <option name="closed" value="true" />
-      <created>1709192334500</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709192334500</updated>
-    </task>
-    <task id="LOCAL-00008" summary="7  Book.objects.all().delete() not flush">
-      <option name="closed" value="true" />
-      <created>1709235405562</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1709235405562</updated>
+      <workItem from="1715369220091" duration="2494000" />
     </task>
     <task id="LOCAL-00009" summary="7  Book.objects.all().delete() not flush">
       <option name="closed" value="true" />
@@ -547,7 +530,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715144500832</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="34 superuser create">
+      <option name="closed" value="true" />
+      <created>1715369863777</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1715369863778</updated>
+    </task>
+    <task id="LOCAL-00057" summary="35 views .py">
+      <option name="closed" value="true" />
+      <created>1715370015368</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1715370015368</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +565,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="10 Tabellen Format" />
     <MESSAGE value="11 Version 1.0" />
     <MESSAGE value="12 subtitle auskommentiert" />
     <MESSAGE value="17 Bilder und Allergene" />
@@ -591,6 +589,18 @@
     <MESSAGE value="33 AGB" />
     <MESSAGE value="33 flush dB" />
     <MESSAGE value="34 superuser create" />
-    <option name="LAST_COMMIT_MESSAGE" value="34 superuser create" />
+    <MESSAGE value="35 views .py" />
+    <option name="LAST_COMMIT_MESSAGE" value="35 views .py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/templates/event.html</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
