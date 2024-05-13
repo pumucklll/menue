@@ -3,7 +3,7 @@ from . import views, admin
 
 urlpatterns = [
     # Other URL patterns
-    path('', views.menue_event, name="event"),
+    path('', views.menue_event, name="alkoholfrei"),
     path('alkoholfrei', views.menue_alkoholfrei.as_view(), name="alkoholfrei"),
     path("kaffee", views.menue_kaffee.as_view(), name="kaffee"),
     path("bier/", views.menue_bier.as_view(), name="bier"),

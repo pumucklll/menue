@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="35 views .py">
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="36 eröffnung">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/event.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,15 +150,7 @@
       <workItem from="1715056064132" duration="3301000" />
       <workItem from="1715141931241" duration="2022000" />
       <workItem from="1715237105356" duration="895000" />
-      <workItem from="1715369220091" duration="2494000" />
-    </task>
-    <task id="LOCAL-00009" summary="7  Book.objects.all().delete() not flush">
-      <option name="closed" value="true" />
-      <created>1709236225281</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1709236225281</updated>
+      <workItem from="1715369220091" duration="3361000" />
     </task>
     <task id="LOCAL-00010" summary="8 settings">
       <option name="closed" value="true" />
@@ -546,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715370015368</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="36 eröffnung">
+      <option name="closed" value="true" />
+      <created>1715375495803</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1715375495803</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +563,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="11 Version 1.0" />
     <MESSAGE value="12 subtitle auskommentiert" />
     <MESSAGE value="17 Bilder und Allergene" />
     <MESSAGE value="17 urlpatterns += staticfiles_urlpatterns()" />
@@ -590,14 +587,15 @@
     <MESSAGE value="33 flush dB" />
     <MESSAGE value="34 superuser create" />
     <MESSAGE value="35 views .py" />
-    <option name="LAST_COMMIT_MESSAGE" value="35 views .py" />
+    <MESSAGE value="36 eröffnung" />
+    <option name="LAST_COMMIT_MESSAGE" value="36 eröffnung" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="django-line">
           <url>file://$PROJECT_DIR$/templates/event.html</url>
-          <line>69</line>
+          <line>68</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
