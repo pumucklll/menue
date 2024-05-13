@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="36 eröffnung">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="37 Korrektur hausordnung&#10;Event entfernt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,14 +149,7 @@
       <workItem from="1715141931241" duration="2022000" />
       <workItem from="1715237105356" duration="895000" />
       <workItem from="1715369220091" duration="3361000" />
-    </task>
-    <task id="LOCAL-00010" summary="8 settings">
-      <option name="closed" value="true" />
-      <created>1709236461708</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1709236461708</updated>
+      <workItem from="1715576880058" duration="347000" />
     </task>
     <task id="LOCAL-00011" summary="9">
       <option name="closed" value="true" />
@@ -544,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715375495803</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="37 Korrektur hausordnung&#10;Event entfernt">
+      <option name="closed" value="true" />
+      <created>1715577030601</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1715577030601</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +562,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="12 subtitle auskommentiert" />
     <MESSAGE value="17 Bilder und Allergene" />
     <MESSAGE value="17 urlpatterns += staticfiles_urlpatterns()" />
     <MESSAGE value="18 Bilder in jeder Rubrik" />
@@ -588,7 +586,8 @@
     <MESSAGE value="34 superuser create" />
     <MESSAGE value="35 views .py" />
     <MESSAGE value="36 eröffnung" />
-    <option name="LAST_COMMIT_MESSAGE" value="36 eröffnung" />
+    <MESSAGE value="37 Korrektur hausordnung&#10;Event entfernt" />
+    <option name="LAST_COMMIT_MESSAGE" value="37 Korrektur hausordnung&#10;Event entfernt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
