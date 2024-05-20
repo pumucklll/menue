@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e4a8d3e-7647-4f93-9132-38e5817506de" name="Changes" comment="38&#10; fehler Event &#10; Korrektur hausordnung&#10;Event entfernt">
-      <change afterPath="$PROJECT_DIR$/templates/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hausordnung.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hausordnung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3787867f-fced-46b9-b64b-01c551b12734.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3787867f-fced-46b9-b64b-01c551b12734.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/python/menue/templates",
+    "last_opened_file_path": "D:/soft/Pycharm/menue/menue/static",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,10 +78,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\soft\Pycharm\menue\menue\static" />
+      <recent name="D:\soft\Pycharm\menue\django_static\static" />
+      <recent name="D:\soft\Pycharm\menue\staticfiles" />
       <recent name="D:\python\menue\templates" />
       <recent name="D:\drive\soft\pycharm\menue\djangoPmenue\menue\static" />
-      <recent name="D:\drive\soft\pycharm\menue\djangoPmenue\templates" />
-      <recent name="D:\drive\soft\pycharm\menue\djangoPmenue\menue" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\drive\soft\pycharm\menue\djangoPmenue\media" />
@@ -119,8 +118,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -157,6 +156,7 @@
       <workItem from="1715369220091" duration="3361000" />
       <workItem from="1715576880058" duration="1243000" />
       <workItem from="1716131558177" duration="1147000" />
+      <workItem from="1716228719792" duration="4293000" />
     </task>
     <task id="LOCAL-00012" summary="10 Tabellen Format">
       <option name="closed" value="true" />
